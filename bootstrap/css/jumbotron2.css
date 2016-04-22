@@ -1,0 +1,15 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+@font-face {
+  font-family: 'GeoSans';
+  src: url('fonts/GeosansLight.ttf');
+}
+
+.jumbotron h1
+{
+  font-family: 'GeoSans', cursive;
+}
