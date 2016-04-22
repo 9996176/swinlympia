@@ -5,11 +5,17 @@ body {
 }
 
 @font-face {
-  font-family: 'GeoSans';
-  src: url('fonts/GeosansLight.ttf');
+    font-family: 'GeoSans';
+    src: url('../../fonts/geosanslight-webfont.eot');
+    src: url('../../fonts/geosanslight-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../../fonts/geosanslight-webfont.woff2') format('woff2'),
+         url('../../fonts/geosanslight-webfont.woff') format('woff'),
+         url('../../fonts/geosanslight-webfont.ttf') format('truetype'),
+         url('../../fonts/geosanslight-webfont.svg#geosanslightregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
 }
 
-.jumbotron h1
-{
-  font-family: 'GeoSans', cursive;
+* {
+  font-family: 'GeoSans';
 }
