@@ -16,6 +16,6 @@ body {
     font-style: normal;
 }
 
-* {
+.jumbotron {
   font-family: 'GeoSans';
 }
