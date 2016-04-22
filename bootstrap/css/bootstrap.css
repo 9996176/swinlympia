@@ -4964,7 +4964,7 @@ a.badge:focus {
   margin-bottom: 30px;
   color: white;
   /*background-color: #ff7070;*/
-background: linear-gradient(to right, #83C9BF, #679F96);
+  background: linear-gradient(to right, #83C9BF, #679F96);
 }
 .jumbotron h1,
 .jumbotron .h1 {
