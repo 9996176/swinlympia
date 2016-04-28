@@ -43,3 +43,8 @@ body {
   height: 30px;
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
 }
+
+#proptext {
+  font-style: italic;
+  font-family: Copperplate, 'Copperplate Gothic Light';
+}

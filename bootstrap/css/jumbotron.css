@@ -19,3 +19,14 @@ body {
 .jumbotron {
   font-family: 'GeoSans';
 }
+
+.col {
+  margin-bottom: 30px;
+}
+
+#swinlympia
+{
+  color: #83C9BF;
+  text-transform: uppercase;
+  font-size: 40px;
+}
