@@ -36,3 +36,11 @@ h4
   font-style: italic;
   color: #83C9BF;
 }
+
+#headerlogo
+{
+  width: 100%;
+  max-width: 200px;
+  margin-bottom: 20px;
+  padding-top: 20px;
+}
