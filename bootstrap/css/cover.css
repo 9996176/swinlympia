@@ -31,10 +31,9 @@ body {
 
 #fbbutton
 {
-  margin-top: 20px;
+  margin: 20px;
 }
 
-/* Padding for spacing */
 .footer {
   position: absolute;
   bottom: 0;
@@ -47,4 +46,16 @@ body {
 #proptext {
   font-style: italic;
   font-family: Copperplate, 'Copperplate Gothic Light';
+}
+
+#swinlympiadefaced
+{
+  max-width: 20%;
+  padding-top: 20px;
+  display: block-inline;
+}
+
+#video
+{
+  max-height: 40px;
 }
