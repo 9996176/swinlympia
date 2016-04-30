@@ -30,3 +30,9 @@ body {
   text-transform: uppercase;
   font-size: 40px;
 }
+
+h4
+{
+  font-style: italic;
+  color: #83C9BF;
+}
