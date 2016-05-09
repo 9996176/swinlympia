@@ -77,3 +77,15 @@ h4
   /*text-align: center; fix this*/
   margin-top: 20px;
 }
+
+.panel-title
+{
+  text-align: center;
+  font-weight: bold;
+  font-style: normal;
+}
+
+.fasghack
+{
+  color: red;
+}
