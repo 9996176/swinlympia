@@ -4974,7 +4974,7 @@ a.badge:focus {
 .jumbotron {
   padding-top: 30px;
   padding-bottom: 30px;
-  margin-bottom: 30px;
+  margin-bottom: 0px;
   color: white;
   /*background-color: #ff7070;*/
   background: linear-gradient(to right, #83d5c9, #54837c);
@@ -5002,8 +5002,8 @@ a.badge:focus {
 }
 @media screen and (min-width: 768px) {
   .jumbotron {
-    padding-top: 48px;
-    padding-bottom: 48px;
+    padding-top: 30px;
+    padding-bottom: 30px;
   }
   .container .jumbotron,
   .container-fluid .jumbotron {

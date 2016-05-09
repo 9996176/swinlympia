@@ -32,7 +32,13 @@ body {
 {
   color: #83C9BF;
   text-transform: uppercase;
-  font-size: 40px;
+  font-size: 60px;
+  text-align: center;
+}
+
+.swinlympiatext, #learnmore
+{
+  text-align: center;
 }
 
 h4
@@ -57,4 +63,17 @@ h4
 .memberimg
 {
   width: 300px;
+}
+
+#fbbuttontop
+{
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+#swinlympialogo
+{
+  max-width:500px;
+  /*text-align: center; fix this*/
+  margin-top: 20px;
 }
