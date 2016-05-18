@@ -90,3 +90,8 @@ h4
   color: red;
   font-family: "Courier New", Courier, monospace;
 }
+
+.resultsheading
+{
+  text-decoration: underline;
+}
